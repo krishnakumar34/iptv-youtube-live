@@ -11,8 +11,8 @@
     "sync": "node ./src/sync.js",
     "compare": "node ./src/compare.js"
   },
-  engines": {
-    "node": "^18.0.0"
+  "engines": {
+    "node": "18.0.0"
   },
   "repository": {
     "type": "git",
